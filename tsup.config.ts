@@ -8,7 +8,7 @@ export default defineConfig({
   bundle: true,
   splitting: false,
   sourcemap: true,
-  clean: true,
+  clean: false,
   dts: {
     resolve: true,
   },
